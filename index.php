@@ -131,7 +131,7 @@
         <ul id="mainnav">
 			<li class="current"><a href="index.php">Home</a></li>
             <li><a href="gallery.php">Gallery</a></li>
-            <li><a href="Bus-Booking.php">Bus-Booking</a></li>
+            <li><a href="History.php">Bus-Booking</a></li>
             <li><a href="routes.php">Routes</a></li>
             <li><a href="location.php">location</a></li>
             <li><a href="contact.php">Contact Us</a></li>

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Online Bus-Booking System</title>
+<title>Online History System</title>
 <link rel="stylesheet" type="text/css" href="xres/css/style.css" />
 <link rel="icon" type="image/png" href="xres/images/favicon.png" />
 <link type="text/css" href="css/styles.css" rel="stylesheet" media="all" />
@@ -15,7 +15,7 @@
         <ul id="mainnav">
 			<li><a href="index.php">Home</a></li>
             <li><a href="gallery.php">Gallery</a></li>
-            <li><a href="Bus-Booking.php">Bus-Booking</a></li>
+            <li><a href="History.php">History</a></li>
             <li class="current"><a href="routes.php">Routes</a></li>
             <li><a href="location.php">location</a></li>
             <li><a href="contact.php">Contact Us</a></li>
