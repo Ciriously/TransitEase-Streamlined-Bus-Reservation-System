@@ -15,7 +15,7 @@
         <ul id="mainnav">
 			<li><a href="index.php">Home</a></li>
             <li><a href="gallery.php">Gallery</a></li>
-            <li class="current"><a href="history.php">History</a></li>
+            <li class="current"><a href="Bus-Booking.php">Bus-Booking</a></li>
             <li><a href="routes.php">Routes</a></li>
             <li><a href="location.php">location</a></li>
             <li><a href="contact.php">Contact Us</a></li>
@@ -34,7 +34,7 @@
 					We live in a world where the speed of life has bombarded the food industry with as much technology as the telephone industry. What works for phones doesn't work for food! The over-processing and microwave heating of our food supply destroys the essential parts of the nutritional value and wholesome flavor.
 					<br>
 					<br>
-					Nothing can replace homemade salad dressings, soups made with natural stocks, fresh cut meat, and creative homemade dish. At Big Mike's Grill House, we believe in the sumptuous flavors developed thru a family history of cooking techniques that we believe comes through in the first mouthful.
+					Nothing can replace homemade salad dressings, soups made with natural stocks, fresh cut meat, and creative homemade dish. At Big Mike's Grill House, we believe in the sumptuous flavors developed thru a family Bus-Booking of cooking techniques that we believe comes through in the first mouthful.
 					<br>
 					<br>
 					Big Mike's excels in it's beautifully, well planned design featuring simplicity on a very elegant level for people from all walks of life. Our basic goal is to provide the best comfort and homey service that will suit your taste and needs. Forget those fast food chains with the same kinds of service and unhealthy food that you simply do not deserve! FOR THE BEST... WE AIM TO GIVE THE BEST!

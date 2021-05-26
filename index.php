@@ -131,7 +131,7 @@
         <ul id="mainnav">
 			<li class="current"><a href="index.php">Home</a></li>
             <li><a href="gallery.php">Gallery</a></li>
-            <li><a href="history.php">History</a></li>
+            <li><a href="Bus-Booking.php">Bus-Booking</a></li>
             <li><a href="routes.php">Routes</a></li>
             <li><a href="location.php">location</a></li>
             <li><a href="contact.php">Contact Us</a></li>
@@ -207,7 +207,7 @@
             <div class="item"> <a href="lodging.php"><img src="xres/images/02_featured.jpg" alt="" /></a>
             <h3><a href="lodging.php">New Route</a></h3>
             <p><a href="lodging.php"><strong>From ble to bla Vice versa</strong><br />
-			Spend a relaxing evening in our circa 1796 hotel, steeped in history. </a></p>  
+			Spend a relaxing evening in our circa 1796 hotel, steeped in Bus-Booking. </a></p>  
 			</div>
 			<div class="item" style="width: 860px;"> 
 				<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FFlorida-Bus%2F224961217554604%3Fref%3Dts%26fref%3Dts&amp;width=800&amp;height=290&amp;show_faces=true&amp;colorscheme=dark&amp;stream=false&amp;border_color&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:800px; height:290px;" allowTransparency="true"></iframe>
